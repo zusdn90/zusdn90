@@ -294,9 +294,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Backend Software Engineer and building server</text>
-    <text x="15" y="50">ETL (Extract / Transform / Load)</text>
+    <rect width="420" height="68" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Backend Software Engineer and building server</text>    
   </g>
 
   <!-- typing 3 -->
@@ -394,6 +393,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="https://zusdn90.github.io/">https://zusdn90.github.io</a> </text>
+    <text x="15" y="27"><a href="https://zusdn90.github.io/">https://zusdn90.github.io</a> </text>
   </g>
 </svg>
