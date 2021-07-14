@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="68" rx="18.0355" class="bubble" />
+    <rect width="420" height="60" rx="18.0355" class="bubble" />
     <text x="15" y="27">Backend Software Engineer and building server</text>    
   </g>
 
