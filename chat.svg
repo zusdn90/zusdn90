@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm hyun woo</text>
+    <text x="15" y="27">Hi, I'm Hyun Woo</text>
   </g>
 
   <!-- typing 2 -->
@@ -296,7 +296,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Backend Software Engineer and building server</text>
-    <text x="15" y="50">REST API</text>
+    <text x="15" y="50">REST API and GraphQL</text>
   </g>
 
   <!-- typing 3 -->
@@ -321,7 +321,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm very interested in aws cloud service. and</text>    
-    <text x="15" y="50">building data preprocessing pipelines.(ETL)</text>    
+    <text x="15" y="50">Building data preprocessing pipelines.(ETL)</text>    
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I run Python UserGoup in Korea</text>    
+    <text x="15" y="27">I'm active in the Python UserGoup community in Korea.</text>    
   </g>
 
   <!-- typing 5 -->
@@ -393,7 +393,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="450" height="42" rx="18.0355" class="bubble" />
+    <rect width="300" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"><a xlink:href="https://clumsy-trouble-714.notion.site/3dbd18f5253647eda6ea0fdbf8f1427b">https://www.notion.so/zusdn90</a> </text>
   </g>
 </svg>
