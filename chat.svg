@@ -347,7 +347,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="400" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="35">Also I'm interested in clean code and TDD.</text>    
+    <text x="15" y="27">Also I'm interested in clean code and TDD.</text>    
   </g>
 
   <!-- typing 5 -->
