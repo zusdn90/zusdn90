@@ -343,12 +343,6 @@
 
   </g>
 
-  <!-- Thanks -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="600" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm active in the Python User Group community in Korea.</text>    
-  </g>
-
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
