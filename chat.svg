@@ -345,8 +345,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm active in the Python UserGoup community in Korea.</text>    
+    <rect width="600" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I'm active in the Python User Group community in Korea.</text>    
   </g>
 
   <!-- typing 5 -->
